@@ -134,11 +134,11 @@ function animateParticles() {
 
 
     }
-    // requestAnimationFrame(animateParticles);
+    requestAnimationFrame(animateParticles);
 }
 
-// initParticles();
-// animateParticles();
+initParticles();
+animateParticles();
 
 // --- Reference Site Cursor Implementation ---
 
